@@ -1,6 +1,6 @@
 {
-  "name": "instalinger",
-  "version": "1.0.0",
+  "name": "DowUii",
+  "version": "10i",
   "description": "",
   "main": "src/index.js",
   "type": "module",
@@ -8,8 +8,8 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "dawid",
-  "license": "ISC",
+  "Owner": "DuyBeo",
+  "Developer": "Tài",
   "devDependencies": {
     "@types/node": "^20.11.19"
   },
